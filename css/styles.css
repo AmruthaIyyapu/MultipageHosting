@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(242, 85, 111);
+}
+
+.email {
+  color: blue;
+}
